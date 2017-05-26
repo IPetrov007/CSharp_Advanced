@@ -1,0 +1,5 @@
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\03_DecimalToBinaryConverter\bin\Debug\03_DecimalToBinaryConverter.exe.config
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\03_DecimalToBinaryConverter\bin\Debug\03_DecimalToBinaryConverter.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\03_DecimalToBinaryConverter\bin\Debug\03_DecimalToBinaryConverter.pdb
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\03_DecimalToBinaryConverter\obj\Debug\03_DecimalToBinaryConverter.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\03_DecimalToBinaryConverter\obj\Debug\03_DecimalToBinaryConverter.pdb

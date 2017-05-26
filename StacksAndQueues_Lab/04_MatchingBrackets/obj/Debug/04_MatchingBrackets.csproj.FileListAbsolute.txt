@@ -1,0 +1,5 @@
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\04_MatchingBrackets\bin\Debug\04_MatchingBrackets.exe.config
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\04_MatchingBrackets\bin\Debug\04_MatchingBrackets.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\04_MatchingBrackets\bin\Debug\04_MatchingBrackets.pdb
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\04_MatchingBrackets\obj\Debug\04_MatchingBrackets.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced\StacksAndQueues_Lab\04_MatchingBrackets\obj\Debug\04_MatchingBrackets.pdb
