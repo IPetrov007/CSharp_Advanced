@@ -19,7 +19,6 @@ namespace _04_MatchingBrackets
                 {
                     Console.WriteLine(input.Substring(indexOfBrackets.Peek(), (i - indexOfBrackets.Pop() + 1)));
                 }
-                
             }
         }
     }
